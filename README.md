@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @Asiya200
-- 👀 I’m interested in Web development and software development
-- 🌱 I’m currently learning UI/UX 
+👋 Hi, I'm Mohammad Asiya Begum,a Frontend Developer skilled in HTML, CSS, JavaScript, Bootstrap. I'm passionate about web development and frontend design. Currently, I'm learning and improving my skills in JavaScript, React, and Figma to build modern and user-friendly web applications.
 
-<!---
-Asiya200/Asiya200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I'm Learning
+Writing clean and responsive HTML & CSS
+Enhancing interactivity with JavaScript
+Building dynamic web apps using React
+Designing UI/UX experiences with Figma
+Creating responsive designs with Bootstrap
+
+🔧 Tech Stack
+Frontend: HTML, CSS, JavaScript, React
+UI/UX: Figma
+Tools: VS Code, Sublime Text 
+
+📫 Let's Connect!
+GitHub: Asiya200
+LinkedIn: www.linkedin.com/in/mohammadasiya
+Email: mohammadasiya92@gmail.com
+
